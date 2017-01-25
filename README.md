@@ -1,2 +1,5 @@
-# course-blockchain-4-dev
-Blockchain Technology for Developers (Course)
+# Blockchain Technology for Developers (Course)
+### Course Companion Guide
+
+## Hands-out
+* [Bitcoin & Blockchain](slides/bc00.pdf)
