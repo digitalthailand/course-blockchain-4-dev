@@ -21,6 +21,7 @@
 * [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/)
 * [Bitcoin](https://bitcoin.org)
 * [Ethereum](https://ethereum.org)
+* [Live Ether.camp](http://live.ether.camp/)
 
 ## Keep Update
 * [Digital Thailand Club - Meetup](https://www.meetup.com/Digital-Thailand-Club-Meetup/)
