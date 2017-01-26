@@ -13,6 +13,9 @@
 * Visit the website [http://azure.com](http://azure.com)
 * Create a new resource as an Ethereum Consortium Blockchain
 
+## Workshop 2
+* Open link [https://ethereum.github.io/browser-solidity/](https://ethereum.github.io/browser-solidity/)
+
 ## Useful Links
 * [How to register for a Free Account - http://bit.ly/2hNfJA2](http://bit.ly/2hNfJA2)
 * [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/)
