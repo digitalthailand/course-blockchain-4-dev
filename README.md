@@ -14,6 +14,7 @@
 * Create a new resource as an Ethereum Consortium Blockchain
 
 ## Useful Links
+* [How to register for a Free Account - http://bit.ly/2hNfJA2](http://bit.ly/2hNfJA2)
 * [Visual Studio Dev Essentials](https://www.visualstudio.com/dev-essentials/)
 * [Bitcoin](https://bitcoin.org)
 * [Ethereum](https://ethereum.org)
