@@ -44,6 +44,3 @@
 * [Digital Thailand Club - FB Page](https://www.facebook.com/digitalthailandclub)
 * [IMC Institute](http://www.imcinstitute.com/)
 * [IMC Institute - FB Page](https://www.facebook.com/imcinstitute)
-
-## Please Feedback
-* [Online Evaluation http://tinyurl.com/blockchain-dev](http://tinyurl.com/blockchain-dev)
