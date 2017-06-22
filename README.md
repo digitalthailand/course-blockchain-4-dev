@@ -8,6 +8,7 @@
 * [Chapter 3](slides/bc03.pdf)
 * [Chapter 4](slides/bc04.pdf)
 * [Chapter 5](slides/bc05.pdf)
+* [Extra](slides/blockchain_dev_companion.pdf)
 
 ## Workshop 1: Getting to know Blockchain Consortium
 * Visit the website [http://azure.com](http://azure.com)
