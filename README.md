@@ -23,7 +23,7 @@
 * Check out [Live Ether.camp](http://live.ether.camp/)
 
 ## Workshop 4: Client's Application
-* Here's the source code repository [https://github.com/digitalthailand/truffle_eth_class1](https://github.com/digitalthailand/truffle_eth_class1)
+* Follow instruction in the Pet Shop tutorial [http://truffleframework.com/tutorials/pet-shop](http://truffleframework.com/tutorials/pet-shop).
 
 ## Useful Links
 * [How to register for a Free Account - http://bit.ly/2hNfJA2](http://bit.ly/2hNfJA2)
