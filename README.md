@@ -24,6 +24,7 @@
 
 ## Workshop 4: Client's Application
 * Follow instruction in the Pet Shop tutorial [http://truffleframework.com/tutorials/pet-shop](http://truffleframework.com/tutorials/pet-shop).
+* You may use this [workshop accelerator.](https://github.com/digitalthailand/workshop-truffle)
 
 ## Useful Links
 * [How to register for a Free Account - http://bit.ly/2hNfJA2](http://bit.ly/2hNfJA2)
