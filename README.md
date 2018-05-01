@@ -33,8 +33,8 @@
 * [Ethereum](https://ethereum.org)
 * [Nethereum](http://www.nethereum.com/)
 * [Live Ether.camp](http://live.ether.camp/)
-* [Watson IoT and Blockchain](https://www.ibm.com/internet-of-things/platform/private-blockchain/)
 * [Watson IoT to Blockchain Sample](https://github.com/ibm-watson-iot/blockchain-samples/tree/master/contracts/basic/simple_contract)
+' * [Watson IoT and Blockchain](https://www.ibm.com/internet-of-things/platform/private-blockchain/)
 
 ## Interesting Clips (May be vendor specific)
 * [Introduction to Chain](https://www.youtube.com/watch?v=bK6wHW1K9jM)
