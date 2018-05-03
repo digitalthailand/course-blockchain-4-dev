@@ -2,11 +2,11 @@
 
 ### 1.Browser solidity
 * เปิดเว็บไซต์ [Browser solidity](https://ethereum.github.io/browser-solidity) จากลิงค์ใน Workshop 3
-![img](/imgs/img01.png)
+![img](/imgs/img01.PNG)
 
 ### 2.Multiplication.sol
 * เปิดไฟล์ตัวอย่าง `Multiplication.sol` ที่อยู่ในโฟร์เดอร์ examples
-![img](/imgs/img02.png)
+![img](/imgs/img02.PNG)
 
 `Multiplication.sol`
 ```
@@ -72,19 +72,19 @@ var multiplication = multiplicationContract.new(
 ### 4.Putty
 * ทำการดาวโหลดโปรแกรม putty มาเก็บไว้  [https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
-![imgs](imgs/img04.png)
+![imgs](imgs/img04.PNG)
 
 ### 5.เชื่อมต่อไปยัง Server
 * เข้าไปที่ Azure แล้วเลือก Resource group ที่เราได้ทำการสร้าง Blockchain cluster ไว้
 * เมื่อเข้ามาแล้วให้กด Deployments 6 Successded
-![imgs](imgs/img05.png)
+![imgs](imgs/img05.PNG)
 * เลือกตัวที่ชื่อขึ้นต้นด้วย Microsoft
-![imgs](imgs/img06.png)
+![imgs](imgs/img06.PNG)
 * เมื่อเข้ามาแล้วให้คลิกไปที่ tab `Outputs`
-![imgs](imgs/img07.png)
+![imgs](imgs/img07.PNG)
 * ที่ tab `Outputs` จะมีรายการที่ชื่อว่า `ssh-to-first-tx-node-region1` อยู่ด้านขวามือให้ทำการ copy ไปใส่ใน text editor แล้ว copy เฉพาะ URL ของเซิฟเวอร์ไว้
 * เปิดโปรแกรม `Putty` ที่ดาวโหลดไว้จากข้อ 4 ขึ้นมา
-![imgs](imgs/img08.png)
+![imgs](imgs/img08.PNG)
 * ในช่อง `Host Name (or IP address)` ให้ใส่ URL ของเซิฟเวอร์ลงไป และ `Port` ลงไปแล้วทำการกดปุ่ม `Open` เพื่อทำการเชื่อมต่อกับเซิฟเวอร์
 ![imgs](imgs/img09.png)
 * โปรแกรมจะมีหน้าต่าง Alert ขึ้นมา ให้ตอบ `Yes`
