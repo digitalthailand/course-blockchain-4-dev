@@ -6,7 +6,7 @@
 
 ### 2.Multiplication.sol
 * เปิดไฟล์ตัวอย่าง `Multiplication.sol` ที่อยู่ในโฟร์เดอร์ examples
-![img](/imgs/img02.PNG)
+[![img](/imgs/img02.PNG)](https://github.com/digitalthailand/course-blockchain-4-dev/blob/master/examples/Multiplication.sol)
 
 `Multiplication.sol`
 ```
@@ -100,7 +100,7 @@ var multiplication = multiplicationContract.new(
 ### 4.Putty
 * ทำการดาวโหลดโปรแกรม putty มาเก็บไว้  [https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
-![imgs](imgs/img04.PNG)
+[![imgs](imgs/img04.PNG)](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
 ### 5.เชื่อมต่อไปยัง Server
 * เข้าไปที่ Azure แล้วเลือก Resource group ที่เราได้ทำการสร้าง Blockchain cluster ไว้
