@@ -2,7 +2,7 @@
 
 ### 1.Browser solidity
 * เปิดเว็บไซต์ [Browser solidity](https://ethereum.github.io/browser-solidity) จากลิงค์ใน Workshop 3
-![img](/imgs/img01.PNG)
+[![img](/imgs/img01.PNG)](https://ethereum.github.io/browser-solidity)
 
 ### 2.Multiplication.sol
 * เปิดไฟล์ตัวอย่าง `Multiplication.sol` ที่อยู่ในโฟร์เดอร์ examples
