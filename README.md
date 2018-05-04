@@ -34,6 +34,11 @@
 * [Nethereum](http://www.nethereum.com/)
 * [Live Ether.camp](http://live.ether.camp/)
 * [Watson IoT to Blockchain Sample](https://github.com/ibm-watson-iot/blockchain-samples/tree/master/contracts/basic/simple_contract)
+* [Controlled Supply (bitcoin)](https://en.bitcoin.it/wiki/Controlled_supply)
+
+### How to manually setup
+* [Bitcoin](https://en.bitcoin.it/wiki/Mining)
+* [Ethereum](http://www.ethdocs.org/en/latest/mining.html)
 
 ## Interesting Clips (May be vendor specific)
 * [Introduction to Chain](https://www.youtube.com/watch?v=bK6wHW1K9jM)
