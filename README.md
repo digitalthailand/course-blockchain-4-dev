@@ -19,7 +19,7 @@
 * Bitcoin's Script [https://en.bitcoin.it/wiki/Script](https://en.bitcoin.it/wiki/Script)
 
 ## Workshop 3: Ethereum Smart Contract
-* Open link [https://ethereum.github.io/browser-solidity/](https://ethereum.github.io/browser-solidity/)
+* Open link [http://remix.ethereum.org](http://remix.ethereum.org)
 * Check out [Live Ether.camp](http://live.ether.camp/)
 
 ## Workshop 4: Client's Application
